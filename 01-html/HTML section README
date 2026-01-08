@@ -1,0 +1,44 @@
+# HTML Practice & Projects
+
+This folder contains all my HTML practice files and mini projects completed as part of my Full Stack Web Development learning journey.
+
+The focus of this section was to build a strong foundation in core HTML concepts and understand how real webpages are structured.
+
+---
+
+## 📘 Topics Covered
+
+- HTML boilerplate and basic structure  
+- Headings and paragraph elements  
+- Lists (ordered and unordered)  
+- Anchor (`<a>`) elements  
+- Image elements and file paths  
+- Nesting and indentation  
+- Self-closing tags  
+- Multi-page HTML websites  
+
+---
+
+## 🛠️ Mini Projects Included
+
+- **Birthday Invite Project**  
+  A simple invitation webpage using basic HTML elements.
+
+- **Movie Ranking Project**  
+  A static webpage showcasing a ranked list using headings, paragraphs, and lists.
+
+---
+
+## 🎯 Learning Outcome
+
+- Improved understanding of semantic HTML
+- Better code readability through proper indentation
+- Confidence in creating basic static webpages
+- Hands-on experience with structuring multi-page websites
+
+---
+
+## 📌 Note
+
+This folder represents my completed HTML learning phase.  
+Future folders will include CSS, JavaScript, and full stack projects built on top of these fundamentals.
