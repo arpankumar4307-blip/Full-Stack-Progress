@@ -1,21 +1,20 @@
-body {
-  background-color: black;
+/* Don't change the existing CSS. */
+#outer-box{
+  background-color: purple;
 }
-h1{
-    text-transform: uppercase;
-    text: size 3rep;;
-    
+.box {
+  background-color: blue;
+  padding: 10px;forced-color-adjust: auto;
 }
-.poster {
-  width: 50%;
-  margin-left: 25%;
-  margin-top: 100px;
-  color: white;
-  font-family: "Libre Baskerville", serif;
-  text-align: center;
+.inner-box{
+  background-color: red;
 }
 
-.motivation-img {
-  border: 5px solid white;
-  width: 100%;
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text{
+  color: white;
 }
